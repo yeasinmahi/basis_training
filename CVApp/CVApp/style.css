@@ -1,0 +1,88 @@
+﻿body {
+}
+.wrapper {
+    border: 1px solid black;
+    width: 962px;
+    margin: 0 auto;
+    background: #fffacd;
+}
+header {
+    background: #ffc0cb;
+    width: 960px;
+    float: left;
+}
+.info {
+    margin-top: 20px;
+    width: 560px;
+    float: left;
+    padding: 50px;
+}
+.info h1 {
+    font-size: 36px;
+    color: blue;
+    font-weight: bold;
+    
+}
+.info h1 a {
+    text-decoration: none;
+}
+.image {
+    padding: 50px;
+    width: 200px;
+    float: left;
+}
+img {
+    border: 1px solid #000000;
+    width: 198px;
+    height: 198px;
+}
+.container {
+    width: 960px;
+    background: #ffc0cb;
+    float: left;
+}
+section {
+    width: 860px;
+    padding: 20px 50px;
+}
+section h1 {
+    font-size: 25px;
+    color: blue;
+    font-weight: bold;
+    background: #f0e68c;
+}
+.education table {
+    margin-top: 20px;
+    width: 860px;
+    border: 1px solid black;
+}
+.education tr {
+    border: 1px solid black;
+}
+.education th {
+    font-weight: bold;
+    border: 1px solid black;
+    text-align: center;
+}
+.education td {
+    border: 1px solid black;
+    text-align: center;
+}
+section p {
+    width: 860px;
+    margin-top: 20px;
+}
+
+.personalInfo table {
+    margin-top: 20px;
+    width: 500px;
+}
+.personalInfo tr {
+}
+.personalInfo th {
+    font-weight: bold;
+    text-align: left;
+}
+.personalInfo td {
+    text-align: left;
+}
