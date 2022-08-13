@@ -1,6 +1,0 @@
-E:\Study\Basis\git\Personal\FirstWebApp\FirstWebApp\bin\FirstWebApp.dll.config
-E:\Study\Basis\git\Personal\FirstWebApp\FirstWebApp\bin\FirstWebApp.dll
-E:\Study\Basis\git\Personal\FirstWebApp\FirstWebApp\bin\FirstWebApp.pdb
-E:\Study\Basis\git\Personal\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.csprojResolveAssemblyReference.cache
-E:\Study\Basis\git\Personal\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.dll
-E:\Study\Basis\git\Personal\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.pdb
